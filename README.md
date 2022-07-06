@@ -1,6 +1,7 @@
 # wasalny_driver
 
 uses google maps APIs and provider state management
+note : you have to add your API key in lib/global variables
 ## Getting Started
 
 This project is a starting point for a Flutter application.
