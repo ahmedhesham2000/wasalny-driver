@@ -1,7 +1,6 @@
 # wasalny_driver
 
-A new Flutter project.
-
+uses google maps APIs and provider state management
 ## Getting Started
 
 This project is a starting point for a Flutter application.
